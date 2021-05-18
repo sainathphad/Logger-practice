@@ -1,0 +1,5 @@
+2021-05-18 11:15:11,874 DEBUG debug priority com.bridgelabz.logger.App main 
+2021-05-18 11:15:11,878 INFO info priority com.bridgelabz.logger.App main 
+2021-05-18 11:15:11,879 WARN warn priority com.bridgelabz.logger.App main 
+2021-05-18 11:15:11,879 ERROR error priority com.bridgelabz.logger.App main 
+2021-05-18 11:15:11,879 FATAL fatal priority com.bridgelabz.logger.App main 
